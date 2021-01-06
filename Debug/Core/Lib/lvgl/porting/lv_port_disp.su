@@ -1,0 +1,4 @@
+lv_port_disp.c:154:13:gpu_blend	32	static
+lv_port_disp.c:164:13:gpu_fill	16	static
+lv_port_disp.c:131:13:disp_flush	24	static
+lv_port_disp.c:52:6:lv_port_disp_init	16	static

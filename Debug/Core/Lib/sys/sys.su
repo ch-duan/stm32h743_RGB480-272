@@ -1,0 +1,4 @@
+sys.c:4:6:Cache_Enable	20	static,ignoring_inline_asm
+sys.c:36:6:Stm32_Clock_Init	136	static
+sys.c:106:4:Get_ICahceSta	0	static
+sys.c:114:4:Get_DCahceSta	0	static

@@ -1,0 +1,3 @@
+lv_qrcode.c:45:11:lv_qrcode_create	32	static
+lv_qrcode.c:75:10:lv_qrcode_update	7928	static
+lv_qrcode.c:161:6:lv_qrcode_delete	8	static

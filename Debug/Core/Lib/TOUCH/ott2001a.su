@@ -1,0 +1,5 @@
+ott2001a.c:12:4:OTT2001A_WR_Reg	16	static
+ott2001a.c:35:6:OTT2001A_RD_Reg	24	static
+ott2001a.c:54:6:OTT2001A_SensorControl	16	static
+ott2001a.c:62:4:OTT2001A_Init	56	static
+ott2001a.c:99:4:OTT2001A_Scan	64	static

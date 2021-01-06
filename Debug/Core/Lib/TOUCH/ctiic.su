@@ -1,0 +1,9 @@
+ctiic.c:5:6:CT_Delay	0	static
+ctiic.c:9:6:CT_IIC_Init	40	static
+ctiic.c:24:6:CT_IIC_Start	16	static
+ctiic.c:34:6:CT_IIC_Stop	8	static
+ctiic.c:45:4:CT_IIC_Wait_Ack	16	static
+ctiic.c:63:6:CT_IIC_Ack	16	static
+ctiic.c:74:6:CT_IIC_NAck	16	static
+ctiic.c:88:6:CT_IIC_Send_Byte	24	static
+ctiic.c:103:4:CT_IIC_Read_Byte	24	static

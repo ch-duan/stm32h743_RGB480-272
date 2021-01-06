@@ -1,0 +1,6 @@
+lv_port_indev.c:182:13:touchpad_read	8	static
+lv_port_indev.c:236:13:mouse_read	0	static
+lv_port_indev.c:276:13:keypad_read	0	static
+lv_port_indev.c:334:13:encoder_read	0	static
+lv_port_indev.c:361:13:button_read	0	static
+lv_port_indev.c:69:6:lv_port_indev_init	48	static
